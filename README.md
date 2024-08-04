@@ -1,4 +1,4 @@
-## Uploading the first ever problem solved with Dart GOAT language 🐐 to the GitHub.
+## Uploading the first ever solved problem using Dart GOAT language 🐐 to the GitHub.
 
 ---
 
