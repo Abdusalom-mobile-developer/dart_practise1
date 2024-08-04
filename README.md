@@ -1,4 +1,4 @@
-## Solving the first ever problem with Dart GOAT language 🐐.
+## Uploading the first ever problem with Dart GOAT language 🐐.
 
 ---
 
